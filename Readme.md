@@ -22,6 +22,7 @@ https://developer.mozilla.org/ko/docs/orphaned/Web/JavaScript/Reference/Global_O
 ```js
 console.log(Array.from(set)); // [3, 2, 1, 4, 5, 7, 8] 
 ```
+## 모의고사
 
 
 
