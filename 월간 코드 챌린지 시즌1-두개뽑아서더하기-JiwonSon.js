@@ -9,11 +9,11 @@ function solution(numbers) {
     }
     
     // 중복 제거
-    // 방법1)
+    // 방법 1)
     answer = answer.filter((el,i)=>{
         return answer.indexOf(el)===i;
     });
-    // 방법2)
+    // 방법 2)
     // const set = new Set(answer);
     // answer = [...set];
     
